@@ -1,4 +1,6 @@
-# NestJS - Send Email
+# NestJS - AWS Exemples
+
+## AWS SES - Send Email
 
 ### Passo 1: Acesso ao Console da AWS
 
